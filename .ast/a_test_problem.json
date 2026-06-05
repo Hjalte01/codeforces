@@ -1,0 +1,1 @@
+{"name":"A. Test Problem","group":"Codeforces - 999","url":"https://codeforces.com/problemset/problem/999/A","memoryLimit":256,"timeLimit":1000,"tests":[{"input":"1 2\n","output":"3\n"}],"testType":"single","input":{"type":"stdin"},"output":{"type":"stdout"},"languages":{"java":{"mainClass":"Main","taskClass":"ATestProblem"}},"batch":{"id":"x","size":1}}
