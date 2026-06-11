@@ -1,0 +1,39 @@
+{
+  "name": "A. Anton and Danik",
+  "group": "Codeforces - 734",
+  "url": "https://codeforces.com/problemset/problem/734/A",
+  "interactive": false,
+  "memoryLimit": 0,
+  "timeLimit": 0,
+  "tests": [
+    {
+      "input": "6\nADAAAA\n",
+      "output": "Anton\n"
+    },
+    {
+      "input": "7\nDDDAADA\n",
+      "output": "Danik\n"
+    },
+    {
+      "input": "6\nDADADA\n",
+      "output": "Friendship\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AAntonAndDanik"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-734_A",
+    "size": 1
+  }
+}

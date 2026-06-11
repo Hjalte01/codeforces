@@ -1,0 +1,39 @@
+{
+  "name": "A. Translation",
+  "group": "Codeforces - 41",
+  "url": "https://codeforces.com/problemset/problem/41/A",
+  "interactive": false,
+  "memoryLimit": 0,
+  "timeLimit": 0,
+  "tests": [
+    {
+      "input": "code\nedoc\n",
+      "output": "YES\n"
+    },
+    {
+      "input": "abb\naba\n",
+      "output": "NO\n"
+    },
+    {
+      "input": "code\ncode\n",
+      "output": "NO\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ATranslation"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-41_A",
+    "size": 1
+  }
+}

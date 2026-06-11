@@ -1,0 +1,39 @@
+{
+  "name": "A. Petya and Strings",
+  "group": "Codeforces - 112",
+  "url": "https://codeforces.com/problemset/problem/112/A",
+  "interactive": false,
+  "memoryLimit": 0,
+  "timeLimit": 0,
+  "tests": [
+    {
+      "input": "aaaaaaaA\n",
+      "output": "0\n"
+    },
+    {
+      "input": "absAbz\n",
+      "output": "-1\n"
+    },
+    {
+      "input": "abcdefgAbCdEfF\n",
+      "output": "1\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "APetyaAndStrings"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-112_A",
+    "size": 1
+  }
+}

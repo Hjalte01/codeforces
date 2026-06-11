@@ -1,0 +1,39 @@
+{
+  "name": "A. Vanya and Fence",
+  "group": "Codeforces - 677",
+  "url": "https://codeforces.com/problemset/problem/677/A",
+  "interactive": false,
+  "memoryLimit": 0,
+  "timeLimit": 0,
+  "tests": [
+    {
+      "input": "3 7\n4 5 14\n",
+      "output": "4\n"
+    },
+    {
+      "input": "6 1\n1 1 1 1 1 1\n",
+      "output": "6\n"
+    },
+    {
+      "input": "6 5\n7 6 8 9 10 5\n",
+      "output": "11\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AVanyaAndFence"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-677_A",
+    "size": 1
+  }
+}

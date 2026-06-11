@@ -1,0 +1,35 @@
+{
+  "name": "A. Accuracy-Preserving Summation Algorithm",
+  "group": "Codeforces - 1953",
+  "url": "https://codeforces.com/problemset/problem/1953/A",
+  "interactive": false,
+  "memoryLimit": 0,
+  "timeLimit": 0,
+  "tests": [
+    {
+      "input": "\n\n2 -4.815473e+04 -1.862622e+04\n",
+      "output": "\n{d:1,2}\n"
+    },
+    {
+      "input": "\n\n3 -4.815473e+01 1.862622e+02 2.997603e+02\n",
+      "output": "\n{d:1,2,3}\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AAccuracyPreservingSummationAlgorithm"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1953_A",
+    "size": 1
+  }
+}

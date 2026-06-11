@@ -1,0 +1,35 @@
+{
+  "name": "A. Wrong Subtraction",
+  "group": "Codeforces - 977",
+  "url": "https://codeforces.com/problemset/problem/977/A",
+  "interactive": false,
+  "memoryLimit": 0,
+  "timeLimit": 0,
+  "tests": [
+    {
+      "input": "512 4\n",
+      "output": "50\n"
+    },
+    {
+      "input": "1000000000 9\n",
+      "output": "1\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AWrongSubtraction"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-977_A",
+    "size": 1
+  }
+}

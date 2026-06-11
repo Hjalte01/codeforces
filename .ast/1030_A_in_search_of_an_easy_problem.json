@@ -1,0 +1,35 @@
+{
+  "name": "A. In Search of an Easy Problem",
+  "group": "Codeforces - 1030",
+  "url": "https://codeforces.com/problemset/problem/1030/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "3\n0 0 1\n",
+      "output": "HARD\n"
+    },
+    {
+      "input": "1\n0\n",
+      "output": "EASY\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AInSearchOfAnEasyProblem"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1030_A",
+    "size": 1
+  }
+}

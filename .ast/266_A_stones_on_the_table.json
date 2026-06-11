@@ -1,0 +1,39 @@
+{
+  "name": "A. Stones on the Table",
+  "group": "Codeforces - 266",
+  "url": "https://codeforces.com/problemset/problem/266/A",
+  "interactive": false,
+  "memoryLimit": 0,
+  "timeLimit": 0,
+  "tests": [
+    {
+      "input": "3RRG\n",
+      "output": "1\n"
+    },
+    {
+      "input": "5RRRRR\n",
+      "output": "4\n"
+    },
+    {
+      "input": "4BRBG\n",
+      "output": "0\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AStonesOnTheTable"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-266_A",
+    "size": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "A. Word Capitalization",
+  "group": "Codeforces - 281",
+  "url": "https://codeforces.com/problemset/problem/281/A",
+  "interactive": false,
+  "memoryLimit": 0,
+  "timeLimit": 0,
+  "tests": [
+    {
+      "input": "ApPLe\n",
+      "output": "ApPLe\n"
+    },
+    {
+      "input": "konjac\n",
+      "output": "Konjac\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AWordCapitalization"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-281_A",
+    "size": 1
+  }
+}

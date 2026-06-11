@@ -1,0 +1,39 @@
+{
+  "name": "A. Nearly Lucky Number",
+  "group": "Codeforces - 110",
+  "url": "https://codeforces.com/problemset/problem/110/A",
+  "interactive": false,
+  "memoryLimit": 0,
+  "timeLimit": 0,
+  "tests": [
+    {
+      "input": "40047\n",
+      "output": "NO\n"
+    },
+    {
+      "input": "7747774\n",
+      "output": "YES\n"
+    },
+    {
+      "input": "1000000000000000000\n",
+      "output": "NO\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ANearlyLuckyNumber"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-110_A",
+    "size": 1
+  }
+}

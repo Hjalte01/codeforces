@@ -1,0 +1,31 @@
+{
+  "name": "H. Wowee Binary String",
+  "group": "Codeforces - 2229",
+  "url": "https://codeforces.com/problemset/problem/2229/H",
+  "interactive": false,
+  "memoryLimit": 0,
+  "timeLimit": 0,
+  "tests": [
+    {
+      "input": "\n\n7\n1\n?\n5\n?????\n5\n?1001\n8\n10010001\n7\n00??10?\n7\n?1?0?1?\n16\n0??000?00??1?1?0\n",
+      "output": "\n\n3\n63\n14\n18\n71\n95\n5399\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "HWoweeBinaryString"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-2229_H",
+    "size": 1
+  }
+}
