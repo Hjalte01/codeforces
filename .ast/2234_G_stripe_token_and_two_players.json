@@ -1,0 +1,31 @@
+{
+  "name": "G. Stripe, Token and Two Players",
+  "group": "Codeforces - 2234",
+  "url": "https://codeforces.com/problemset/problem/2234/G",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 3000,
+  "tests": [
+    {
+      "input": "\n\n4\n3\n0 0 0\n3\n1 1 2\n5\n0 0 1 0 0\n9\n0 1 2 0 0 1 0 0 0\n",
+      "output": "\n\n1\n2\n1\n2\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "GStripeTokenAndTwoPlayers"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-2234_G",
+    "size": 1
+  }
+}
