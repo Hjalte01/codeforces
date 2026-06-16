@@ -1,0 +1,35 @@
+{
+  "name": "A. Calculating Function",
+  "group": "Codeforces - 486",
+  "url": "https://codeforces.com/problemset/problem/486/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "4\n",
+      "output": "2\n"
+    },
+    {
+      "input": "5\n",
+      "output": "-3\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ACalculatingFunction"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-486_A",
+    "size": 1
+  }
+}
