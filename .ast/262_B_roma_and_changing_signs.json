@@ -1,0 +1,35 @@
+{
+  "name": "B. Roma and Changing Signs",
+  "group": "Codeforces - 262",
+  "url": "https://codeforces.com/contest/262/problem/B",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 2000,
+  "tests": [
+    {
+      "input": "3 2\n-1 -1 1\n",
+      "output": "3\n"
+    },
+    {
+      "input": "3 1\n-1 -1 1\n",
+      "output": "1\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "BRomaAndChangingSigns"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-262_B",
+    "size": 1
+  }
+}

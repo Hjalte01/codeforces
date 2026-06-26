@@ -1,0 +1,31 @@
+{
+  "name": "A. Again Twenty Five!",
+  "group": "Codeforces - 630",
+  "url": "https://codeforces.com/problemset/problem/630/A",
+  "interactive": false,
+  "memoryLimit": 64,
+  "timeLimit": 500,
+  "tests": [
+    {
+      "input": "2\n",
+      "output": "25\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AAgainTwentyFive"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-630_A",
+    "size": 1
+  }
+}

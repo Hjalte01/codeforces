@@ -1,0 +1,35 @@
+{
+  "name": "A. I Wanna Be the Guy",
+  "group": "Codeforces - 469",
+  "url": "https://codeforces.com/contest/469/problem/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "4\n3 1 2 3\n2 2 4\n",
+      "output": "I become the guy.\n"
+    },
+    {
+      "input": "4\n3 1 2 3\n2 2 3\n",
+      "output": "Oh, my keyboard!\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AIWannaBeTheGuy"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-469_A",
+    "size": 1
+  }
+}

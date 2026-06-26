@@ -1,0 +1,35 @@
+{
+  "name": "A. Magnets",
+  "group": "Codeforces - 344",
+  "url": "https://codeforces.com/problemset/problem/344/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "6\n10\n10\n10\n01\n10\n10\n",
+      "output": "3\n"
+    },
+    {
+      "input": "4\n01\n01\n10\n10\n",
+      "output": "2\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AMagnets"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-344_A",
+    "size": 1
+  }
+}

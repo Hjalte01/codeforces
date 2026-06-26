@@ -1,0 +1,43 @@
+{
+  "name": "A. Fox And Snake",
+  "group": "Codeforces - 510",
+  "url": "https://codeforces.com/problemset/problem/510/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 2000,
+  "tests": [
+    {
+      "input": "3 3\n",
+      "output": "###\n..#\n###\n"
+    },
+    {
+      "input": "3 4\n",
+      "output": "####\n...#\n####\n"
+    },
+    {
+      "input": "5 3\n",
+      "output": "###\n..#\n###\n#..\n###\n"
+    },
+    {
+      "input": "9 9\n",
+      "output": "#########\n........#\n#########\n#........\n#########\n........#\n#########\n#........\n#########\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AFoxAndSnake"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-510_A",
+    "size": 1
+  }
+}

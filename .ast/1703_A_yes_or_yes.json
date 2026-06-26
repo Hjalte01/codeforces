@@ -1,0 +1,31 @@
+{
+  "name": "A. YES or YES?",
+  "group": "Codeforces - 1703",
+  "url": "https://codeforces.com/problemset/problem/1703/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n10\nYES\nyES\nyes\nYes\nYeS\nNoo\norZ\nyEz\nYas\nXES\n",
+      "output": "\nYES\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\nNO\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AYESOrYES"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1703_A",
+    "size": 1
+  }
+}

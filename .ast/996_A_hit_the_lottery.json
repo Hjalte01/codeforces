@@ -1,0 +1,39 @@
+{
+  "name": "A. Hit the Lottery",
+  "group": "Codeforces - 996",
+  "url": "https://codeforces.com/problemset/problem/996/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "125\n",
+      "output": "3\n"
+    },
+    {
+      "input": "43\n",
+      "output": "5\n"
+    },
+    {
+      "input": "1000000000\n",
+      "output": "10000000\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AHitTheLottery"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-996_A",
+    "size": 1
+  }
+}

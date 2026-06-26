@@ -1,0 +1,39 @@
+{
+  "name": "A. Police Recruits",
+  "group": "Codeforces - 427",
+  "url": "https://codeforces.com/problemset/problem/427/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "3\n-1 -1 1\n",
+      "output": "2\n"
+    },
+    {
+      "input": "8\n1 -1 1 -1 -1 1 1 1\n",
+      "output": "1\n"
+    },
+    {
+      "input": "11\n-1 -1 2 -1 -1 -1 -1 -1 -1 -1 -1\n",
+      "output": "8\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "APoliceRecruits"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-427_A",
+    "size": 1
+  }
+}
