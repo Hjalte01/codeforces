@@ -1,0 +1,31 @@
+{
+  "name": "B. Good times Good times",
+  "group": "Codeforces - 2241",
+  "url": "https://codeforces.com/contest/2241/problem/B",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n4\n8\n73\n299\n6767\n",
+      "output": "\n11\n4\n26\n3366\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "BGoodTimesGoodTimes"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-2241_B",
+    "size": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "A. Remove Smallest",
+  "group": "Codeforces - 1399",
+  "url": "https://codeforces.com/contest/1399/problem/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n5\n3\n1 2 2\n4\n5 5 5 5\n3\n1 2 4\n4\n1 3 4 4\n1\n100\n",
+      "output": "\nYES\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ARemoveSmallest"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1399_A",
+    "size": 1
+  }
+}

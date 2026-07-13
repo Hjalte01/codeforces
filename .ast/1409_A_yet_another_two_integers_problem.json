@@ -1,0 +1,31 @@
+{
+  "name": "A. Yet Another Two Integers Problem",
+  "group": "Codeforces - 1409",
+  "url": "https://codeforces.com/problemset/problem/1409/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n6\n5 5\n13 42\n18 4\n1337 420\n123456789 1000000000\n100500 9000\n",
+      "output": "\n0\n3\n2\n92\n87654322\n9150\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AYetAnotherTwoIntegersProblem"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1409_A",
+    "size": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "A. Halloumi Boxes",
+  "group": "Codeforces - 1903",
+  "url": "https://codeforces.com/contest/1903/problem/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n5\n3 2\n1 2 3\n3 1\n9 9 9\n4 4\n6 4 2 1\n4 3\n10 3 830 14\n2 1\n3 1\n",
+      "output": "\n\nYES\nYES\nYES\nYES\nNO\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AHalloumiBoxes"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1903_A",
+    "size": 1
+  }
+}

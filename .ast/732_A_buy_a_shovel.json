@@ -1,0 +1,39 @@
+{
+  "name": "A. Buy a Shovel",
+  "group": "Codeforces - 732",
+  "url": "https://codeforces.com/problemset/problem/732/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "117 3\n",
+      "output": "9\n"
+    },
+    {
+      "input": "237 7\n",
+      "output": "1\n"
+    },
+    {
+      "input": "15 2\n",
+      "output": "2\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ABuyAShovel"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-732_A",
+    "size": 1
+  }
+}

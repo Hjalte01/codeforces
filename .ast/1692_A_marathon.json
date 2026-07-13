@@ -1,0 +1,31 @@
+{
+  "name": "A. Marathon",
+  "group": "Codeforces - 1692",
+  "url": "https://codeforces.com/problemset/problem/1692/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n4\n2 3 4 1\n10000 0 1 2\n500 600 400 300\n0 9999 10000 9998\n",
+      "output": "\n2\n0\n1\n3\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AMarathon"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1692_A",
+    "size": 1
+  }
+}

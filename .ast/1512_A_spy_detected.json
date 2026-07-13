@@ -1,0 +1,31 @@
+{
+  "name": "A. Spy Detected!",
+  "group": "Codeforces - 1512",
+  "url": "https://codeforces.com/problemset/problem/1512/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 2000,
+  "tests": [
+    {
+      "input": "\n4\n4\n11 13 11 11\n5\n1 4 4 4 4\n10\n3 3 3 3 10 3 3 3 3 3\n3\n20 20 10\n",
+      "output": "\n2\n1\n5\n3\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ASpyDetected"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1512_A",
+    "size": 1
+  }
+}

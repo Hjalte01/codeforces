@@ -1,0 +1,31 @@
+{
+  "name": "C. RemovevomeR",
+  "group": "Codeforces - 2241",
+  "url": "https://codeforces.com/contest/2241/problem/C",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n4\n4\n0000\n3\n110\n6\n110011\n6\n101100\n",
+      "output": "\n\n1\n2\n1\n1\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "CRemovevomeR"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-2241_C",
+    "size": 1
+  }
+}

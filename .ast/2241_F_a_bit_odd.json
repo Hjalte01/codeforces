@@ -1,0 +1,31 @@
+{
+  "name": "F. A Bit Odd",
+  "group": "Codeforces - 2241",
+  "url": "https://codeforces.com/contest/2241/problem/F",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 2000,
+  "tests": [
+    {
+      "input": "\n\n3\n5\n10101\n4\n0100\n6\n011001\n",
+      "output": "\n\nAlice\nAlice\nBob\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "FABitOdd"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-2241_F",
+    "size": 1
+  }
+}

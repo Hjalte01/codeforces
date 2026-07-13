@@ -1,0 +1,39 @@
+{
+  "name": "A. Restoring Three Numbers",
+  "group": "Codeforces - 1154",
+  "url": "https://codeforces.com/problemset/problem/1154/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n3 6 5 4\n",
+      "output": "\n2 1 3\n"
+    },
+    {
+      "input": "\n40 40 40 60\n",
+      "output": "\n20 20 20\n"
+    },
+    {
+      "input": "\n201 101 101 200\n",
+      "output": "\n1 100 100\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ARestoringThreeNumbers"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1154_A",
+    "size": 1
+  }
+}

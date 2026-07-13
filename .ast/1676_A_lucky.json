@@ -1,0 +1,31 @@
+{
+  "name": "A. Lucky?",
+  "group": "Codeforces - 1676",
+  "url": "https://codeforces.com/problemset/problem/1676/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n5\n213132\n973894\n045207\n000000\n055776\n",
+      "output": "\nYES\nNO\nYES\nYES\nNO\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ALucky"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1676_A",
+    "size": 1
+  }
+}
