@@ -1,0 +1,31 @@
+{
+  "name": "A. Who Watches the Watchpig?",
+  "group": "Codeforces - 2245",
+  "url": "https://codeforces.com/contest/2245/problem/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n4\n3 1\nLLL\n4 3\nLRLR\n6 2\nRLLRRL\n12 4\nLRLLRRLRLRLR\n",
+      "output": "\n\n1\n-1\n2\n5\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AWhoWatchesTheWatchpig"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-2245_A",
+    "size": 1
+  }
+}

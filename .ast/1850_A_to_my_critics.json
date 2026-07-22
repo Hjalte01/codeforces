@@ -1,0 +1,31 @@
+{
+  "name": "A. To My Critics",
+  "group": "Codeforces - 1850",
+  "url": "https://codeforces.com/problemset/problem/1850/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n5\n8 1 2\n4 4 5\n9 9 9\n0 0 0\n8 5 3\n",
+      "output": "\nYES\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AToMyCritics"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1850_A",
+    "size": 1
+  }
+}

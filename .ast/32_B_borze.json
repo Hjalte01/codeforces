@@ -1,0 +1,39 @@
+{
+  "name": "B. Borze",
+  "group": "Codeforces - 32",
+  "url": "https://codeforces.com/problemset/problem/32/B",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 2000,
+  "tests": [
+    {
+      "input": ".-.--\n",
+      "output": "012\n"
+    },
+    {
+      "input": "--.\n",
+      "output": "20\n"
+    },
+    {
+      "input": "-..-.--\n",
+      "output": "1012\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "BBorze"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-32_B",
+    "size": 1
+  }
+}

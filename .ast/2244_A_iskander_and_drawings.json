@@ -1,0 +1,31 @@
+{
+  "name": "A. Iskander and Drawings",
+  "group": "Codeforces - 2244",
+  "url": "https://codeforces.com/contest/2244/problem/A?adcd1e=caf4fmdsrtym99&csrf_token=f702f116e7e65ff033d6bbf14c234ca1&__cf_chl_tk=4vHrnnulMZUgrMnXQ.3a7zTvIPseHEI1WNBEBK.UkoY-1784040290-1.0.1.1-HEr5CNP3Jpzr.FjD5Vy9EyB22jBG1SfSYFZlURW6lyw",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n5\n7\n#*##*##\n8\n########\n8\n********\n8\n#*****##\n6\n*#####\n",
+      "output": "\n\n1\n4\n0\n1\n3\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AIskanderAndDrawings"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-2244_A",
+    "size": 1
+  }
+}
