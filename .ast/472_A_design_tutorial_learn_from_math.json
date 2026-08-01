@@ -1,0 +1,43 @@
+{
+  "name": "A. Design Tutorial: Learn from Math",
+  "group": "Codeforces - 472",
+  "url": "https://codeforces.com/problemset/problem/472/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "12\n",
+      "output": "4 8\n"
+    },
+    {
+      "input": "15\n",
+      "output": "6 9\n"
+    },
+    {
+      "input": "23\n",
+      "output": "8 15\n"
+    },
+    {
+      "input": "1000000\n",
+      "output": "500000 500000\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ADesignTutorialLearnFromMath"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-472_A",
+    "size": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "A. Love Story",
+  "group": "Codeforces - 1829",
+  "url": "https://codeforces.com/problemset/problem/1829/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n5\ncoolforsez\ncadafurcie\ncodeforces\npaiuforces\nforcescode\n",
+      "output": "\n4\n5\n0\n4\n9\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ALoveStory"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1829_A",
+    "size": 1
+  }
+}

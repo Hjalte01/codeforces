@@ -1,0 +1,31 @@
+{
+  "name": "A. Creating Words",
+  "group": "Codeforces - 1985",
+  "url": "https://codeforces.com/problemset/problem/1985/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n6\nbit set\ncat dog\nhot dog\nuwu owo\ncat cat\nzzz zzz\n",
+      "output": "\nsit bet\ndat cog\ndot hog\nowu uwo\ncat cat\nzzz zzz\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ACreatingWords"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1985_A",
+    "size": 1
+  }
+}
