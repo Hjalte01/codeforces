@@ -1,0 +1,31 @@
+{
+  "name": "A. Short Substrings",
+  "group": "Codeforces - 1367",
+  "url": "https://codeforces.com/problemset/problem/1367/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 2000,
+  "tests": [
+    {
+      "input": "\n4\nabbaac\nac\nbccddaaf\nzzzzzzzzzz\n",
+      "output": "\nabac\nac\nbcdaf\nzzzzzz\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "AShortSubstrings"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1367_A",
+    "size": 1
+  }
+}
