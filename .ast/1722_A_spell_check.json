@@ -1,0 +1,31 @@
+{
+  "name": "A. Spell Check",
+  "group": "Codeforces - 1722",
+  "url": "https://codeforces.com/problemset/problem/1722/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n10\n5\nTimur\n5\nmiurT\n5\nTrumi\n5\nmriTu\n5\ntimur\n4\nTimr\n6\nTimuur\n10\ncodeforces\n10\nTimurTimur\n5\nTIMUR\n",
+      "output": "\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\nNO\nNO\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ASpellCheck"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1722_A",
+    "size": 1
+  }
+}
