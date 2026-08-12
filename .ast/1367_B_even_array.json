@@ -1,0 +1,31 @@
+{
+  "name": "B. Even Array",
+  "group": "Codeforces - 1367",
+  "url": "https://codeforces.com/problemset/problem/1367/B",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 2000,
+  "tests": [
+    {
+      "input": "\n4\n4\n3 2 7 6\n3\n3 2 6\n1\n7\n7\n4 9 2 1 18 3 0\n",
+      "output": "\n2\n1\n-1\n0\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "BEvenArray"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1367_B",
+    "size": 1
+  }
+}
