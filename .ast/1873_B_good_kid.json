@@ -1,0 +1,31 @@
+{
+  "name": "B. Good Kid",
+  "group": "Codeforces - 1873",
+  "url": "https://codeforces.com/problemset/problem/1873/B",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n\n4\n4\n2 2 1 2\n3\n0 1 2\n5\n4 3 2 3 4\n9\n9 9 9 9 9 9 9 9 9\n",
+      "output": "\n16\n2\n432\n430467210\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "BGoodKid"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1873_B",
+    "size": 1
+  }
+}
