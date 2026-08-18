@@ -1,0 +1,13 @@
+
+10
+a
+aa
+aaa
+aaaa
+abab
+abcabc
+abacaba
+xxyy
+xyyx
+xyxy
+
