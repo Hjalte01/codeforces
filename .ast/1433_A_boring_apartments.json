@@ -1,0 +1,31 @@
+{
+  "name": "A. Boring Apartments",
+  "group": "Codeforces - 1433",
+  "url": "https://codeforces.com/problemset/problem/1433/A",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 1000,
+  "tests": [
+    {
+      "input": "\n4\n22\n9999\n1\n777\n",
+      "output": "\n13\n90\n1\n66\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "ABoringApartments"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1433_A",
+    "size": 1
+  }
+}
