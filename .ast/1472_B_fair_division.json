@@ -1,0 +1,31 @@
+{
+  "name": "B. Fair Division",
+  "group": "Codeforces - 1472",
+  "url": "https://codeforces.com/problemset/problem/1472/B",
+  "interactive": false,
+  "memoryLimit": 256,
+  "timeLimit": 2000,
+  "tests": [
+    {
+      "input": "\n5\n2\n1 1\n2\n1 2\n4\n1 2 1 2\n3\n2 2 2\n3\n2 1 2\n",
+      "output": "\nYES\nNO\nYES\nNO\nNO\n"
+    }
+  ],
+  "testType": "single",
+  "input": {
+    "type": "stdin"
+  },
+  "output": {
+    "type": "stdout"
+  },
+  "languages": {
+    "java": {
+      "mainClass": "Main",
+      "taskClass": "BFairDivision"
+    }
+  },
+  "batch": {
+    "id": "codeforces-auto-pull-1472_B",
+    "size": 1
+  }
+}
